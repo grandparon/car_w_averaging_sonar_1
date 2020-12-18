@@ -1,5 +1,5 @@
 {
-    "name": "Car_w_averaging_sonar_1",
+    "name": "car_w_avg_sonar_funcs",
     "description": "",
     "dependencies": {
         "core": "*",
